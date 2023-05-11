@@ -1,5 +1,7 @@
 # OctoMagicHat
+<div style="text-align: justify">
 This is a mechatronic-costume project developed &amp; constructed by myself for the course ME4250 Mechatronics, taught by by Carolina Silva And Leslie Cárdenas at the University of Chile . It is a magic hat that hides a small 3D-printed octopus. Using servo motors, the hat performs a small interaction with the octopus through an open-loop control system developed for the Arduino platform.
+</div>
 
 ## El proyecto...
 
@@ -7,6 +9,15 @@ This is a mechatronic-costume project developed &amp; constructed by myself for 
 <img src=Pics/OctoMagicHat.jpeg alt="Texto alternativo" width="25%" height="25%">
 </p>
 
+
+<div style="text-align: justify">
+Este diseño es un disfrás animatrónico inspirado en un sombrero de magia. Dentro del sombrero, permanece oculto una figura, en ete caso un pequeño pulpo, el cual sale desde el sombrero al presionar un botón oculto en la solapa y realiza una pequeña interacción.
+  
+</div>
+
+<p align="center">
+  <img src=Pics/gif_hat.gif alt="Texto alternativo" width="300">
+</p>
 
 
 
