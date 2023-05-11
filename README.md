@@ -42,9 +42,14 @@ Componentes:
 
 
 <div style="text-align: justify">
-  Para el diseño y simulación del circuito usé la plataforma [Enlace al proyecto en Tinkercad](https://www.tinkercad.com/things/hFBynJSA9Hm-proyecto1mecatronica)
-
+  Para el diseño y simulación del circuito usé la plataforma Tinkercad (https://www.tinkercad.com/things/hFBynJSA9Hm-proyecto1mecatronica), aquí e esquema de conexiones:
+  
 </div>
+
+
+<p align="center">
+  <img src=Pics/electric_diagram.png alt="Texto alternativo" width="400">
+</p>
 
 
 
