@@ -3,7 +3,7 @@ This is a mechatronic-costume project developed &amp; constructed by myself for 
 
 ## El proyecto...
 
-<img src=Pics/OctoMagicHat.jpeg alt="Texto alternativo" width="200" height="300">
+<img src=Pics/OctoMagicHat.jpeg alt="Texto alternativo" width="50%" height="50%">
 
 
 
