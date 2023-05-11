@@ -75,9 +75,14 @@ Parametros de impresión:
 - Altura de Capa: 0,2 mm.
 - Software de segmentación: CURA.
 
-Estos compoentes se unen mediante pernos parker M4 x 8mm. Requere usar una herramienta de hilo M4.
+Estos compoentes se unen mediante pernos parker M4 x 8mm. Requere usar una herramienta de hilo M4 y así se debería ver con los componentes ya montados:
+<p align="center">
+  <img src=Pics/3D_printed_mech.jpeg alt="Texto alternativo" width="200">
+</p>
+
 
 Como observación, no considero la figura que está oculta dentro del sombrero ya que queda a libre elección de quien quiera replicar este proyecto.
+
 
 ### Estructura auxiliar
 
