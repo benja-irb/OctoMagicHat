@@ -98,7 +98,21 @@ La estructura "cilindrica" fue construida en cartón corrugado, mientras que la 
   <img src=Pics/hide_button.jpeg alt="Imagen 2" height="300">
 </p>
 
+Finalmente, el sombrero fue cubierto con tela de felpa y se le agregó un contorno interno de policarbonato para hacer soporte de la estructura auxiliar de componentes.
 
+<p align="center">
+  <img src=Pics/hat.jpeg alt="Texto alternativo" width="400">
+</p>
+
+### Montaje
+
+El montaje consiste en introducir la estructura auxiliar al sombrero, realizar las conexiones con el pulsador y colocar una tapa también cubierta en felpa y con unas cintas de velcro pegadas. Notar que la tapa tiene unos cortes que le permiten flectar por secciones.
+
+<p align="center">
+  <img src=Pics/inside.jpeg alt="Imagen 1" height="300">
+  <img src=Pics/button_conetions.jpeg alt="Imagen 2" height="300">
+  <img src=Pics/velco.jpeg alt="Imagen 3" height="300">
+</p>
 
 
 
