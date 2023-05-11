@@ -114,6 +114,18 @@ El montaje consiste en introducir la estructura auxiliar al sombrero, realizar l
   <img src=Pics/velco.jpeg alt="Imagen 3" height="300">
 </p>
 
+También agregué 2 imanes, uno en la punta de la tapa y otro escondido en el sombrero, de esta forma la tapa permanece cerrada mientas la figura esté oculta dentro del sombrero.
+
+
+### Listo
+
+Este fue mi proyecto de disfraz animatrónico con control de lazo abierto. Gracias por leer y llegar hasta aquí!
+
+}<p align="center">
+  <img src=Pics/hat1.jpeg alt="Texto alternativo" width="500">
+</p>
+
+
 
 
 
