@@ -42,7 +42,8 @@ Componentes:
 
 
 <div style="text-align: justify">
-  Para el diseño y simulación del circuito usé la plataforma [Tinkercad](https://www.tinkercad.com/things/hFBynJSA9Hm-proyecto1mecatronica)
+  Para el diseño y simulación del circuito usé la plataforma [Enlace al proyecto en Tinkercad](https://www.tinkercad.com/things/hFBynJSA9Hm-proyecto1mecatronica)
+
 </div>
 
 
