@@ -19,5 +19,31 @@ Este diseño es un disfrás animatrónico inspirado en un sombrero de magia. Den
   <img src=Pics/gif_hat.gif alt="Texto alternativo" width="300">
 </p>
 
+### Materiales y componentes
+
+Materiales para el sombrero:
+- Cartón corrugado.
+- Policarbonato alveolar.
+- Cinta de union.
+- Barras de silicona.
+- Cintas de Velcro.
+- Par de imanes de neodimio pequeños.
+
+Componentes:
+- Placa Arduino NANO.
+- Shield servomotores para Arduino NANO.
+- 2 Micro Servomotores.
+- Buzzer Activo.
+- Pulsador.
+- Batería externa.
+- Cables para conexiones.
+
+### Diseño del esquema de conexiones
+
+
+<div style="text-align: justify">
+  Para el diseño y simulación del circuito usé la plataforma [Tinkercad](https://www.tinkercad.com/things/hFBynJSA9Hm-proyecto1mecatronica)
+</div>
+
 
 
