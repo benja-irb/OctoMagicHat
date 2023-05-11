@@ -121,7 +121,7 @@ También agregué 2 imanes, uno en la punta de la tapa y otro escondido en el so
 
 Este fue mi proyecto de disfraz animatrónico con control de lazo abierto. Gracias por leer y llegar hasta aquí!
 
-}<p align="center">
+<p align="center">
   <img src=Pics/hat1.jpeg alt="Texto alternativo" width="500">
 </p>
 
