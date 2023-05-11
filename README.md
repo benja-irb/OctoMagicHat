@@ -91,12 +91,14 @@ Es importante mencionar que desde esta base salen las conexiones del pulsador/bo
 
 ### Estructura del sombrero
 
-La estructura "cilindrica" fue construida en cartón corrugado, mientras que la solapa, la tapa se usaron dos cortes de policarbonato alveolar. A continuación, algunas imagenes del proceso.
+La estructura "cilindrica" fue construida en cartón corrugado, mientras que la solapa, la tapa se usaron dos cortes de policarbonato alveolar. A continuación, algunas imagenes del proceso en donde muestra tambíen como va conectado el pulsador al cual le fue soldado los cables de alimentación y de datos, además de una resitencia tal y como se ve en el esquema de conexiones.
 
+<p align="center">
 <div style="display: flex;">
   <img src=Pics/hat_structure.jpeg alt="Imagen 1" style="height: 200px; flex: 1;">
   <img src=Pics/hide_button.jpeg alt="Imagen 2" style="height: 200px; flex: 1;">
 </div>
+</p>
 
 
 
